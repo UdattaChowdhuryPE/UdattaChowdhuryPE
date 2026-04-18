@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Udatta 👋
 
-<!--
-**UdattaChowdhuryPE/UdattaChowdhuryPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Product Manager focused on turning ambiguous problems into shipped products with measurable impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on
+
+* Building products that solve real user problems
+* Focusing on growth, retention, and experimentation
+* Exploring system design and data-driven decision making
+
+---
+
+## 📊 Product Work
+
+* Improved ___ by ___% by ___
+* Launched ___ used by ___ users
+* Designed and executed experiments improving ___
+
+---
+
+## 🧠 Product Thinking
+
+* Product teardowns and case studies
+* PRDs and feature design documents
+* Experimentation insights and learnings
+
+---
+
+## ⚙️ What I focus on
+
+* Problem discovery & user research
+* Product strategy & prioritization
+* Data-driven decision making
+* Execution with cross-functional teams
+
+---
+
+## 🤝 Let’s connect
+
+* Open to building impactful products
+* Interested in early-stage and high-ownership roles
+
+📫 Reach me: [your@email.com](mailto:udattachowdhury2000@gmail.com)
