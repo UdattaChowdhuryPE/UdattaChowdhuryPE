@@ -78,4 +78,4 @@ I document how I think, not just what I ship.
 * Interested in high-impact roles at the intersection of product and engineering
 * Especially drawn to 0→1 and system-heavy problem spaces
 
-📫 Reach me: [your@email.com](mailto:udattachowdhury2000@gmail.com)
+📫 Reach me: [udattachowdhury2000@gmail.com](mailto:udattachowdhury2000@gmail.com)
