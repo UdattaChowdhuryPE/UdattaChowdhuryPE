@@ -14,40 +14,6 @@ I operate at the intersection of product, execution, and systems — and I’m a
 
 ---
 
-## 📊 Selected Work
-
-### 🧘 HABUILD — Product & Ops (Founder’s Office)
-
-* Built internal automation systems reducing manual effort by **85%+**
-* Reduced operational incidents by **40–50%** through SOP-driven execution
-* Improved team attendance from **~65% → 85%+** within 1 month
-* Eliminated **90% of manual reconciliation effort**, saving ~15+ hrs/week
-* Reduced communication delays from **45 mins → 15 mins**
-
-### 👥 GENWISE — Product Manager
-
-* Scaled product from **0 → 100K+ users**, driving **10K+ mins daily engagement**
-* Built 0→1 features generating **₹1Cr+ revenue**
-* Improved conversion by **39%** via funnel and UX optimization
-* Conducted **1,000+ user interviews** to inform product decisions
-* Built AI-driven workflows analysing **750+ daily calls**
-
-### 🔐 SPRINTO — Product Intern
-
-* Reduced onboarding/training time by **60%** through product-led flows
-* Designed RBAC systems for multi-role enterprise use
-
-### 🍳 CHEFKART — Product Intern
-
-* Increased feature adoption from **23% → 31%**
-* Launched new service journey end-to-end
-
-### ⚡ SYMBL AI — Product & Growth Intern
-
-* Built developer-facing tools improving debugging and integration experience
-
----
-
 ## 🧠 Product Thinking
 
 I document how I think, not just what I ship.
