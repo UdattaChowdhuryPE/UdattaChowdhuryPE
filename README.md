@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://udattachowdhurype.github.io/" target="_blank">
+  <a href="https://udattachowdhurype.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/udattachowdhury" target="_blank">
