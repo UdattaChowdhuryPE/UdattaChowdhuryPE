@@ -30,10 +30,10 @@
   <a href="https://udattachowdhurype.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0b0b12?style=for-the-badge&logo=vercel&logoColor=8a2be2" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/udatta-chowdhury">
+  <a href="https://www.linkedin.com/in/udattachowdhury/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:udattachowdhury.work@gmail.com">
+  <a href="mailto:udattachowdhury2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=8a2be2" alt="Email" />
   </a>
   <a href="https://github.com/UdattaChowdhuryPE">
